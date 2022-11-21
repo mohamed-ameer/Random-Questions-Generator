@@ -135,9 +135,6 @@ let data =[
     "question": "DO you have blacklist?"
     },
     {
-    "question": "When/where was you fist kiss?and with who?"
-    },
-    {
     "question": "Do you have bestfriend?who is He/She?"
     },
     {
@@ -358,5 +355,158 @@ let data =[
     },
     {
     "question": "What do you think in feminist?"
+    },
+    {
+    "question": "What do you like to do as you have freetime?"
+    },
+    {
+    "question": "How many siblings do you have?"
+    },
+    {
+    "question": "Do you fight with your brother/sister?when and what was the last fight?"
+    },
+    {
+    "question": "What is your biggest fear?"
+    },
+    {
+    "question": "what is been your most embarrassing moment?"
+    },
+    {
+    "question": "How do you like to be comforted when you’re sad or upset?"
+    },
+    {
+    "question": "Who was the last person to make you cry and why?"
+    },
+    {
+    "question": "When have you felt the most proud?"
+    },
+    {
+    "question": "Have you ever been bullied?"
+    },
+    {
+    "question": "Do you have any regrets? If so, what are they?"
+    },
+    {
+    "question": "Out of all your family members, who are you closest to?"
+    },
+    {
+    "question": "Do you want to have kids one day? How many?"
+    },
+    {
+    "question": "When you can't sleep, what keeps you up at night?"
+    },
+    {
+    "question": "What do you do when no one else is around?"
+    },
+    {
+    "question": "What’s your favorite thing you own and why?"
+    },
+    {
+    "question": "What’s your favorite TikTok video?"
+    },
+    {
+    "question": "What’s your favorite youtube video?"
+    },
+    {
+    "question": "What’s your favorite funny video?"
+    },
+    {
+    "question": "What flavor of ice cream do you like?"
+    },
+    {
+    "question": "What's the last lie you told?"
+    },
+    {
+    "question": "What's the best compliment you've ever received?"
+    },
+    {
+    "question": "When was the last time you were jealous and why?"
+    },
+    {
+    "question": "What did you dream about last night?"
+    },
+    {
+    "question": "What does bestfriend mean to you?"
+    },
+    {
+    "question": "What is the weirdest thing you have ever eaten?"
+    },
+    {
+    "question": "Do you care about what other people tell you?"
+    },
+    {
+    "question": "What’s the best type of cheese for you?"
+    },
+    {
+    "question": "What are your phobias?"
+    },
+    {
+    "question": "Do you have any phobia?"
+    },
+    {
+    "question": "What makes you jealous?"
+    },
+    {
+    "question": "Is there someone you really hate?"
+    },
+    {
+    "question": "When was the last time you cried?"
+    },
+    {
+    "question": "How are you, really?"
+    },
+    {
+    "question": "If you won the lottery, what would you do with the earnings?"
+    },
+    {
+    "question": "What does success mean to you?"
+    },
+    {
+    "question": "What's your favorite anime character?"
+    },
+    {
+    "question": "What's your favorite photo?"
+    },
+    {
+    "question": "What's your favorite movie character?"
+    },
+    {
+    "question": "Who is your celebrity crush?"
+    },
+    {
+    "question": "What was your first email address ever?"
+    },
+    {
+    "question": "Dog person, cat person, or neither?"
+    },
+    {
+    "question": "What's the deepest desire of your heart?"
+    },
+    {
+    "question": "What's your relationship with your parents like?"
+    },
+    {
+    "question": "What was the worst advice?"
+    },
+    {
+    "question": "If you could change anything about your past, would you and what would it be?"
+    },
+    {
+    "question": "What's your biggest fear now?"
+    },
+    {
+    "question": "What's your biggest insecurity?"
+    },
+    {
+    "question": "How do you prepare coffee?"
+    },
+    {
+    "question": "Have you ever attempted to swallow toothpaste?"
+    },
+    {
+    "question": "Who’s the second person on your missed calls?"
+    },
+    {
+    "question": "What is the weirdest dream you have ever had?"
     },
     ]

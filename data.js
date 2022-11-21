@@ -189,6 +189,9 @@ let data =[
     "question": "What is your sexuality?"
     },
     {
+    "question": "did you pee in the street before?"
+    },
+    {
     "question": "What is something immature you think you do?"
     },
     {
@@ -453,6 +456,9 @@ let data =[
     "question": "When was the last time you cried?"
     },
     {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
     "question": "How are you, really?"
     },
     {
@@ -463,6 +469,9 @@ let data =[
     },
     {
     "question": "What's your favorite anime character?"
+    },
+    {
+        "question": "did you pee in the shower before?"
     },
     {
     "question": "What's your favorite photo?"
@@ -508,5 +517,8 @@ let data =[
     },
     {
     "question": "What is the weirdest dream you have ever had?"
+    },
+    {
+    "question": "did you pee in the beach before?"
     },
     ]

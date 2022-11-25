@@ -9,6 +9,39 @@ let data =[
     "question": "What do you think in feminist?"
     },
     {
+    "question": "What do you think in feminist?"
+    },
+    {
+    "question": "What do you think in feminist?"
+    },
+    {
+    "question": "What do you think in feminist?"
+    },
+    {
+    "question": "What do you think in feminist?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
+    "question": "Do you support gay people LGBT?if yes tell me why?"
+    },
+    {
     "question": "Do you support gay people LGBT?if yes tell me why?"
     },
     {
@@ -36,7 +69,19 @@ let data =[
     "question": "What's your opinion on social media?"
     },
     {
-    "question": "What is your opinion on tattoos?"
+    "question": "Do you have tattoo?"
+    },
+    {
+    "question": "Do you have tattoo?"
+    },
+    {
+    "question": "Do you have tattoo?"
+    },
+    {
+    "question": "Do you have tattoo?"
+    },
+    {
+    "question": "Do you have tattoo?"
     },
     {
     "question": "What's your current biggest worry/fear?"
@@ -90,16 +135,37 @@ let data =[
     "question": "Are you virgin?"
     },
     {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
+    "question": "Are you virgin?"
+    },
+    {
     "question": "Are you in a relationship?"
     },
     {
-        "question": "Show me your browser search history 👀😂?"
+    "question": "Show me your browser search history 👀😂?"
     },
     {
     "question": "Do you have pets?"
-    },
-    {
-    "question": "Have you ever cheated on your girlfriend with your hand?"
     },
     {
     "question": "What would you do, if you had a chance to change your gender?"
@@ -141,9 +207,6 @@ let data =[
     "question": "What is your favorite hobby?"
     },
     {
-    "question": "Tell me a joke?"
-    },
-    {
     "question": "What made you smile today?"
     },
     {
@@ -171,6 +234,30 @@ let data =[
     "question": "Did you hurt someone before?"
     },
     {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
+    "question": "Did you hurt someone before?"
+    },
+    {
     "question": "What is the fair punishment for a murderer?hanged or get in prison"
     },
     {
@@ -192,6 +279,45 @@ let data =[
     "question": "did you pee in the street before?"
     },
     {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "did you pee in the street before?"
+    },
+    {
+    "question": "What is something immature you think you do?"
+    },
+    {
+    "question": "What is something immature you think you do?"
+    },
+    {
+    "question": "What is something immature you think you do?"
+    },
+    {
+    "question": "What is something immature you think you do?"
+    },
+    {
+    "question": "What is something immature you think you do?"
+    },
+    {
     "question": "What is something immature you think you do?"
     },
     {
@@ -199,6 +325,15 @@ let data =[
     },
     {
     "question": "Do you like messi or cristiano?"
+    },
+    {
+    "question": "Do you believe men and women can ever just be friends?"
+    },
+    {
+    "question": "Do you believe men and women can ever just be friends?"
+    },
+    {
+    "question": "Do you believe men and women can ever just be friends?"
     },
     {
     "question": "Do you believe men and women can ever just be friends?"
@@ -234,7 +369,13 @@ let data =[
     "question": "Who is the most important person in your life right now?"
     },
     {
-    "question": "What piece of technology could you live without?"
+    "question": "could you live without internet?"
+    },
+    {
+    "question": "could you live without internet?"
+    },
+    {
+    "question": "could you live without internet?"
     },
     {
     "question": "What weird thing do you do when nobody else is around?"
@@ -246,16 +387,10 @@ let data =[
     "question": "What is something you've failed at recently?"
     },
     {
-    "question": "What was your first job?"
-    },
-    {
     "question": "What is the most frustrating thing about your job?"
     },
     {
     "question": "What do you wish they would teach at school that they don't?"
-    },
-    {
-    "question": "If it was possible to transplant your brain to stay alive for another 100 years, would you?"
     },
     {
     "question": "What would you change about yourself if you could?"
@@ -267,13 +402,7 @@ let data =[
     "question": "What makes you laugh the most?"
     },
     {
-    "question": "What animal do you think best reflects your personality?"
-    },
-    {
     "question": "What is the most recent fact you learned that surprised you?"
-    },
-    {
-    "question": "What's your most recent passion?"
     },
     {
     "question": "Have you ever lost someone close to you?"
@@ -297,10 +426,58 @@ let data =[
     "question": "What's the most embarrassing thing that's happened to you recently?"
     },
     {
+    "question": "What's the most embarrassing thing that's happened to you recently?"
+    },
+    {
+    "question": "What's the most embarrassing thing that's happened to you recently?"
+    },
+    {
+    "question": "What's the most embarrassing thing that's happened to you recently?"
+    },
+    {
+    "question": "What's the most embarrassing thing that's happened to you recently?"
+    },
+    {
     "question": "What is the most recent silly thing you did?"
     },
     {
     "question": "What snack can you just not get enough of?"
+    },
+    {
+    "question": "Did you flirt before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Did you molest before?"
+    },
+    {
+    "question": "Did you flirt before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Did you molest before?"
+    },
+    {
+    "question": "Did you flirt before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Did you molest before?"
+    },
+    {
+    "question": "Did you flirt before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Did you molest before?"
     },
     {
     "question": "Did you flirt before?"
@@ -327,7 +504,43 @@ let data =[
     "question": "Have you been molested before?"
     },
     {
-    "question": "What will you do if you know that your gf is pragnent?"
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Have you been molested before?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
+    },
+    {
+    "question": "Why do you think men are always jealous?"
     },
     {
     "question": "Why do you think men are always jealous?"
@@ -336,10 +549,13 @@ let data =[
     "question": "Do you believe men and women can ever just be friends?"
     },
     {
-    "question": "Are you phycho?"
+    "question": "Do you believe that men will be men?"
     },
     {
-    "question": "if you stuck with your crush in a certain place,what would be your reaction?"
+    "question": "Do you believe that men will be men?"
+    },
+    {
+    "question": "Do you believe that men will be men?"
     },
     {
     "question": "Do you believe men and women can ever just be friends?"
@@ -355,6 +571,15 @@ let data =[
     },
     {
     "question": "Do you like messi or cristiano or ronaldinho?"
+    },
+    {
+    "question": "What do you think in feminist?"
+    },
+    {
+    "question": "What do you think in feminist?"
+    },
+    {
+    "question": "What do you think in feminist?"
     },
     {
     "question": "What do you think in feminist?"
@@ -459,10 +684,58 @@ let data =[
     "question": "did you pee in the swimming pool before?"
     },
     {
-    "question": "How are you, really?"
+    "question": "did you pee in the swimming pool before?"
     },
     {
-    "question": "If you won the lottery, what would you do with the earnings?"
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "did you pee in the swimming pool before?"
+    },
+    {
+    "question": "What should i know about yourself?"
+    },
+    {
+    "question": "what is your biggest secret?"
     },
     {
     "question": "What does success mean to you?"
@@ -471,7 +744,7 @@ let data =[
     "question": "What's your favorite anime character?"
     },
     {
-        "question": "did you pee in the shower before?"
+    "question": "did you pee in the shower before?"
     },
     {
     "question": "What's your favorite photo?"
@@ -481,9 +754,6 @@ let data =[
     },
     {
     "question": "Who is your celebrity crush?"
-    },
-    {
-    "question": "What was your first email address ever?"
     },
     {
     "question": "Dog person, cat person, or neither?"
@@ -502,9 +772,6 @@ let data =[
     },
     {
     "question": "What's your biggest fear now?"
-    },
-    {
-    "question": "What's your biggest insecurity?"
     },
     {
     "question": "How do you prepare coffee?"

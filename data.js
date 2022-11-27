@@ -348,6 +348,18 @@ let data =[
     "question": "What is something immature you think you do?"
     },
     {
+    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+    },
+    {
+    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+    },
+    {
+    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+    },
+    {
+    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+    },
+    {
     "question": "Do you have any unusual fears?"
     },
     {

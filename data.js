@@ -12,6 +12,39 @@ let data =[
     "question": "What do you think in feminist?"
     },
     {
+    "question": "Have you ever cheated in exam and how?"
+    },
+    {
+    "question": "Have you ever cheated in exam and how?"
+    },
+    {
+    "question": "Have you ever cheated in exam and how?"
+    },
+    {
+    "question": "Have you ever cheated in exam and how?"
+    },
+    {
+    "question": "Have you ever cheated in exam and how?"
+    },
+    {
+    "question": "what is the evil habit that you still have since child?"
+    },
+    {
+    "question": "what is the evil habit that you still have since child?"
+    },
+    {
+    "question": "what is the evil habit that you still have since child?"
+    },
+    {
+    "question": "what is the evil habit that you still have since child?"
+    },
+    {
+    "question": "what is the evil habit that you still have since child?"
+    },
+    {
+    "question": "what is the evil habit that you still have since child?"
+    },
+    {
     "question": "What do you think in feminist?"
     },
     {

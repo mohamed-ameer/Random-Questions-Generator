@@ -628,5 +628,276 @@ let data =[
     },
     {
         "question": "What’s one thing you’d love to do with your best friend that you haven’t done yet?"
-    }
+    },
+    {
+        "question": "If you could have any celebrity as your personal stylist, who would it be?"
+    },
+    {
+        "question": "What’s the most hilarious TikTok trend you’ve ever tried?"
+    },
+    {
+        "question": "If you were a dessert, what would you be and why?"
+    },
+    {
+        "question": "What’s the cheesiest pickup line you’ve ever heard or used?"
+    },
+    {
+        "question": "If you could swap voices with any singer for a day, who’d you pick?"
+    },
+    {
+        "question": "What’s the most absurd thing you’ve ever Googled just for fun?"
+    },
+    {
+        "question": "If you could turn any activity into an Olympic sport, what would it be?"
+    },
+    {
+        "question": "What’s the funniest nickname you’ve ever given someone?"
+    },
+    {
+        "question": "If you could be a contestant on any reality TV show, which one would you choose?"
+    },
+    {
+        "question": "What’s the most random food you’ve ever craved at 2 a.m.?"
+    },
+    {
+        "question": "If you could make one ridiculous law that everyone had to follow, what would it be?"
+    },
+    {
+        "question": "What’s the silliest dance move you’ve ever attempted?"
+    },
+    {
+        "question": "If you could have a talking pet, what animal would it be and what would it say?"
+    },
+    {
+        "question": "What’s the most outrageous outfit you’ve ever worn?"
+    },
+    {
+        "question": "If you could rename yourself with a totally wild name, what would it be?"
+    },
+    {
+        "question": "What’s the funniest thing you’ve ever overheard in public?"
+    },
+    {
+        "question": "If you could have a magical vending machine that dispenses anything, what would it give out?"
+    },
+    {
+        "question": "What’s the most epic prank you’ve ever pulled or seen?"
+    },
+    {
+        "question": "If you could star in a viral meme, what would it be about?"
+    },
+    {
+        "question": "What’s the weirdest pizza topping combo you’d be willing to try?"
+    },
+    {
+        "question": "If you could have any fictional gadget, like a lightsaber or a magic wand, what would you pick?"
+    },
+    {
+        "question": "What’s the most random thing you’ve ever bought on impulse?"
+    },
+    {
+        "question": "If you could create a new emoji, what would it look like?"
+    },
+    {
+        "question": "What’s the most ridiculous thing you’d do if you were invisible for a day?"
+    },
+    {
+        "question": "If you could throw a themed party with no budget limit, what would the theme be?"
+    },
+    {
+        "question": "What’s the funniest thing you’ve ever done to get out of a boring situation?"
+    },
+    {
+        "question": "If you could have a cartoon character as your best friend, who would it be?"
+    },
+    {
+        "question": "What’s the most over-the-top thing you’d do for a million dollars?"
+    },
+    {
+        "question": "If you could make one animal talk, which one would you choose and why?"
+    },
+    {
+        "question": "What’s the most hilarious thing you’ve ever seen someone do at a coffee shop?"
+    },
+    {
+        "question": "What’s a moment when you felt truly understood by someone?"
+    },
+    {
+        "question": "What’s the hardest truth you’ve ever had to accept?"
+    },
+    {
+        "question": "If you could rewrite one decision from your past, what would it be?"
+    },
+    {
+        "question": "What’s a value you hold that you’d never compromise on?"
+    },
+    {
+        "question": "What’s the most significant way your perspective on life has changed?"
+    },
+    {
+        "question": "What’s a dream you’ve let go of, and do you still think about it?"
+    },
+    {
+        "question": "What’s the most important lesson a failure has taught you?"
+    },
+    {
+        "question": "How do you define success for yourself, beyond money or status?"
+    },
+    {
+        "question": "What’s a sacrifice you’ve made that shaped who you are today?"
+    },
+    {
+        "question": "What’s the most vulnerable thing you’ve ever shared with someone?"
+    },
+    {
+        "question": "What’s a belief you’ve held that you now question?"
+    },
+    {
+        "question": "What’s the most profound act of kindness you’ve experienced?"
+    },
+    {
+        "question": "How do you find peace when life feels overwhelming?"
+    },
+    {
+        "question": "What’s a part of your identity you’ve struggled to embrace?"
+    },
+    {
+        "question": "What’s the most meaningful connection you’ve ever made with a stranger?"
+    },
+    {
+        "question": "What’s a fear you haven’t shared with many people?"
+    },
+    {
+        "question": "What’s the most significant way you’ve grown in the past year?"
+    },
+    {
+        "question": "What’s a moment when you felt completely at peace with yourself?"
+    },
+    {
+        "question": "What’s the most difficult conversation you’ve ever had, and what did you learn?"
+    },
+    {
+        "question": "What’s a legacy you want to leave behind?"
+    },
+    {
+        "question": "What’s the most unexpected source of strength you’ve found in yourself?"
+    },
+    {
+        "question": "What’s a moment when you felt you truly made a difference in someone’s life?"
+    },
+    {
+        "question": "What’s the most challenging aspect of forgiving yourself?"
+    },
+    {
+        "question": "What’s a question about life you wish you had the answer to?"
+    },
+    {
+        "question": "What’s the most meaningful way you’ve been supported by another woman?"
+    },
+    {
+        "question": "What’s a time when you had to redefine what happiness means to you?"
+    },
+    {
+        "question": "What’s the most powerful way you’ve overcome self-doubt?"
+    },
+    {
+        "question": "What’s a moment when you felt your purpose in life was clear?"
+    },
+    {
+        "question": "What’s the most transformative experience you’ve had in a relationship?"
+    },
+    {
+        "question": "What’s a hope you hold for the future that keeps you going?"
+    },
+    {
+        "question": "What’s your favorite coffee shop drink?"
+    },
+    {
+        "question": "What’s the last song you added to your playlist?"
+    },
+    {
+        "question": "What’s your go-to snack for a movie night?"
+    },
+    {
+        "question": "What’s the best app on your phone right now?"
+    },
+    {
+        "question": "What’s your favorite color to wear?"
+    },
+    {
+        "question": "What’s the last thing you binge-watched?"
+    },
+    {
+        "question": "What’s your favorite type of weather?"
+    },
+    {
+        "question": "What’s the coziest spot in your home?"
+    },
+    {
+        "question": "What’s your favorite flower or plant?"
+    },
+    {
+        "question": "What’s the last photo you took on your phone?"
+    },
+    {
+        "question": "What’s your favorite breakfast food?"
+    },
+    {
+        "question": "What’s the best candle scent you’ve ever smelled?"
+    },
+    {
+        "question": "What’s your favorite board game or card game?"
+    },
+    {
+        "question": "What’s the last thing you laughed at online?"
+    },
+    {
+        "question": "What’s your favorite way to spend a lazy Sunday?"
+    },
+    {
+        "question": "What’s the best ice cream flavor in your opinion?"
+    },
+    {
+        "question": "What’s your favorite piece of jewelry to wear?"
+    },
+    {
+        "question": "What’s the last place you went shopping?"
+    },
+    {
+        "question": "What’s your favorite fruit to snack on?"
+    },
+    {
+        "question": "What’s the best scent that reminds you of home?"
+    },
+    {
+        "question": "What’s your favorite type of tea or coffee?"
+    },
+    {
+        "question": "What’s the last gift you gave someone?"
+    },
+    {
+        "question": "What’s your favorite way to decorate your space?"
+    },
+    {
+        "question": "What’s the best restaurant you’ve been to recently?"
+    },
+    {
+        "question": "What’s your favorite animal to see at the zoo?"
+    },
+    {
+        "question": "What’s the last thing you doodled or sketched?"
+    },
+    {
+        "question": "What’s your favorite type of cookie?"
+    },
+    {
+        "question": "What’s the best park or outdoor spot you’ve visited?"
+    },
+    {
+        "question": "What’s your favorite phone wallpaper right now?"
+    },
+    {
+        "question": "What’s the last thing you bought that made you happy?"
+    },
+
 ]

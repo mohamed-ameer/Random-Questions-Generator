@@ -14,7 +14,12 @@ const countEl = document.getElementById('count');
 updateVisitCount();
 
 function updateVisitCount() {
-	fetch('https://api.countapi.xyz/update/ameer/github/?amount=1')
+	fetch('https://api.api-ninjas.com/v1/counter?id=test_id&hit=true',{
+  		method: 'GET', // GET requests usually don't have a body
+ 		headers: {
+    			'X-Api-Key': 'fA6tVTtYFvRu3BoyAayzpA==60n1Z7nifArbTggv'
+  		}
+	})
 	.then(res => res.json())
 	.then(res => {
 		countEl.innerHTML = res.value;

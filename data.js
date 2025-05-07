@@ -1,863 +1,452 @@
 let data =[
     {
-    "question": "Do you have any nickname?"
+        "question": "Do you have any nickname?"
     },
     {
-    "question": "Do you believe in love at first look?"
+        "question": "Do you believe in love at first look?"
     },
     {
-    "question": "What do you think in feminist?"
+        "question": "What do you think in feminist?"
     },
     {
-    "question": "What do you think in feminist?"
+        "question": "Do you support gay people LGBT?if yes tell me why?"
     },
     {
-    "question": "Have you ever cheated in exam and how?"
+        "question": "If you have a chance to live in another country,which country?"
     },
     {
-    "question": "Have you ever cheated in exam and how?"
+        "question": "Do you have a crush?"
     },
     {
-    "question": "Have you ever cheated in exam and how?"
+        "question": "Do you have a girlfriend?"
     },
     {
-    "question": "Have you ever cheated in exam and how?"
+        "question": "Are you virgin?"
     },
     {
-    "question": "Have you ever cheated in exam and how?"
+        "question": "What is something that someone does that will immediately turn you off?"
     },
     {
-    "question": "what is the evil habit that you still have since child?"
+        "question": "Do you consider yourself an introvert or an extrovert?"
     },
     {
-    "question": "what is the evil habit that you still have since child?"
+        "question": "What was the situation that make you laugh alot?"
     },
     {
-    "question": "what is the evil habit that you still have since child?"
+        "question": "What's your opinion on social media?"
     },
     {
-    "question": "what is the evil habit that you still have since child?"
+        "question": "What is your opinion on tattoos?"
     },
     {
-    "question": "what is the evil habit that you still have since child?"
+        "question": "What's your current biggest worry/fear?"
     },
     {
-    "question": "what is the evil habit that you still have since child?"
+        "question": "Show me your browser search history! 👀"
     },
     {
-    "question": "What do you think in feminist?"
+        "question": "Do you have any regret?"
     },
     {
-    "question": "What do you think in feminist?"
+        "question": "What is your favourit anime/movie/music/series?"
     },
     {
-    "question": "What do you think in feminist?"
+        "question": "What do you do for a living?"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "Do you like to speak with yourself?"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "Do you have blaklist?🐱‍👤"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "How tall are you in cm?📏"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "What did you eat today?"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "How old are you?"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "What's your favorite thing to do when you're all alone?"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "Tell me weird thing about ur self"
     },
     {
-    "question": "Do you support gay people LGBT?if yes tell me why?"
+        "question": "what's your favourte movie?"
     },
     {
-    "question": "If you have a chance to live in another country,which country?"
+        "question": "How did you know about this server?"
     },
     {
-    "question": "Do you have a crush?"
+        "question": "What was the last good book you read?"
     },
     {
-    "question": "Do you have a girlfriend?"
+        "question": "Are you in a relationship?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "Do you have pets?"
     },
     {
-    "question": "What is something that someone does that will immediately turn you off?"
+        "question": "Have you ever cheated on your girlfriend with your hand?"
     },
     {
-    "question": "Do you consider yourself an introvert or an extrovert?"
+        "question": "What would you do, if you had a chance to change your gender?"
     },
     {
-    "question": "What was the situation that make you laugh alot?"
+        "question": "What's your strangest hidden talent??"
     },
     {
-    "question": "What's your opinion on social media?"
+        "question": "What's the best thing you've ever bought off Amazon?"
     },
     {
-    "question": "Do you have tattoo?"
+        "question": "Could you forgive someone hurt you, and who is he/she?"
     },
     {
-    "question": "Do you have tattoo?"
+        "question": "Would you feel comfortable showing me the photos on your phone?"
     },
     {
-    "question": "Do you have tattoo?"
+        "question": "What's the most uncomfortable situation you've ever found yourself in?"
     },
     {
-    "question": "Do you have tattoo?"
+        "question": "When/where was you fist kiss?and with who?"
     },
     {
-    "question": "Do you have tattoo?"
+        "question": "Do you have bestfriend?who is He/She?"
     },
     {
-    "question": "What's your current biggest worry/fear?"
+        "question": "What is your favorite hobby?"
     },
     {
-    "question": "Show me your browser search history 👀😂?"
+        "question": "Tell me a joke?"
     },
     {
-    "question": "Do you have any regret?"
+        "question": "What made you smile today?"
     },
     {
-    "question": "What is your favourit anime/movie/music/series?"
+        "question": " Are you a cat person or a dog person?"
     },
     {
-    "question": "What do you do for a living?"
+        "question": "What superpower do you wish you could have?"
     },
     {
-    "question": "Do you like to speak with yourself?"
+        "question": "Where are you from?"
     },
     {
-    "question": "Do you have blaklist?🐱‍👤"
+        "question": "Tell me about your country?"
     },
     {
-    "question": "How tall are you in cm?📏"
+        "question": "What is your type in women?"
     },
     {
-    "question": "What did you eat today?"
+        "question": "What is your real name?What does your name mean?"
     },
     {
-    "question": "How old are you?"
+        "question": "Did you hurt someone before?"
     },
     {
-    "question": "What's your favorite thing to do when you're all alone?"
+        "question": "What is the fair punishment for a murderer?hanged or get in prison"
     },
     {
-    "question": "Tell me weird thing about ur self"
+        "question": "Did you run away from a dog before?"
     },
     {
-        "question": "Show me your browser search history 👀😂?"
+        "question": "Is there any place that you have no desire to visit? Why?"
     },
     {
-    "question": "what's your favourte movie?"
+        "question": "Why do people check the fridge and then check it again five seconds later?"
     },
     {
-    "question": "How did you know about this server?"
+        "question": "What is the meaning of life?"
     },
     {
-    "question": "What was the last good book you read?"
+        "question": "What is your sexuality?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "What is something immature you think you do?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "Do you have any unusual fears?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "Do you like messi or cristiano?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "Do you believe men and women can ever just be friends?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "What was the last movie you saw?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "What do you normally do for fun?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "Do you like to cook?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "What are you most afraid of?"
     },
     {
-    "question": "Are you virgin?"
+        "question": "What scares you the most about the future?"
     },
     {
-    "question": "Are you in a relationship?"
+        "question": "Who is the most important person in your life right now?"
     },
     {
-    "question": "Show me your browser search history 👀😂?"
+        "question": "What piece of technology could you live without?"
     },
     {
-    "question": "Do you have pets?"
+        "question": "What weird thing do you do when nobody else is around?"
     },
     {
-    "question": "What would you do, if you had a chance to change your gender?"
+        "question": "Is there anything that most people find cute that creeps you out?"
     },
     {
-    "question": "Show me your browser search history 👀😂?"
+        "question": "What is something you've failed at recently?"
     },
     {
-    "question": "What's your strangest hidden talent??"
+        "question": "What was your first job?"
     },
     {
-    "question": "What's the best thing you've ever bought off Amazon?"
+        "question": "What is the most frustrating thing about your job?"
     },
     {
-    "question": "What's your current biggest worry?"
+        "question": "What do you wish they would teach at school that they don't?"
     },
     {
-    "question": "how old are you?"
+        "question": "If it was possible to transplant your brain to stay alive for another 100 years, would you?"
     },
     {
-    "question": "What do you do for a living?"
+        "question": "What would you change about yourself if you could?"
     },
     {
-    "question": "Could you forgive someone hurt you, and who is he/she?"
+        "question": "What really makes you angry?"
     },
     {
-    "question": "Would you feel comfortable showing me the photos on your phone?"
+        "question": "What makes you laugh the most?"
     },
     {
-    "question": "What's the most uncomfortable situation you've ever found yourself in?"
+        "question": "What animal do you think best reflects your personality?"
     },
     {
-    "question": "DO you have blacklist?"
+        "question": "What is the most recent fact you learned that surprised you?"
     },
     {
-    "question": "Do you have bestfriend?who is He/She?"
+        "question": "What's your most recent passion?"
     },
     {
-    "question": "What is your favorite hobby?"
+        "question": "Have you ever lost someone close to you?"
     },
     {
-    "question": "What made you smile today?"
+        "question": "When do you think a person is ready for marriage?"
     },
     {
-    "question": " Are you a cat person or a dog person?"
+        "question": "What is the best piece of advice someone has given you?"
     },
     {
-    "question": "What superpower do you wish you could have?"
+        "question": "Who is someone you recently thought about that you haven't seen or talked to in years?"
     },
     {
-    "question": "Where are you from?"
+        "question": "Do you ever sing in the shower?"
     },
     {
-    "question": "Tell me about your country?"
+        "question": "What is the worst piece of advice you've ever gotten?"
     },
     {
-    "question": "Have you been molested before?"
+        "question": "What's the most embarrassing thing that's happened to you recently?"
     },
     {
-    "question": "What is your type in women?"
+        "question": "What is the most recent silly thing you did?"
     },
     {
-    "question": "What is your real name?What does your name mean?"
+        "question": "What snack can you just not get enough of?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "Did you flirt before?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "Do you think your gf likes you?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "If your friend is a gay,what would you do?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "What will you do if you know that your gf is pragnent?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "Why do you think men are always jealous?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "Are you phycho?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "if you stuck with your crush in a certain place,what would be your reaction?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "Do you think school is useless?"
     },
     {
-    "question": "Did you hurt someone before?"
+        "question": "Do you like macdonald or KFC?"
     },
     {
-    "question": "What is the fair punishment for a murderer?hanged or get in prison"
+        "question": "Do you like maradona or ronaldinho?"
     },
     {
-    "question": "Did you run away from a dog before?"
+        "question": "Do you like messi or cristiano or ronaldinho?"
     },
     {
-    "question": "Is there any place that you have no desire to visit? Why?"
+        "question": "What’s the best question you’ve ever been asked?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "Who’s the most influential person in your life?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "Where would you be if you hadn’t followed your dream?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "What’s the best decision you’ve ever made in your life?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "What will always be funny to you?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "If you could go back and relive one day without changing it, which day would you revisit?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "If seasons never changed, which would you most like to live in eternally?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "What is your biggest non-academic, non work-related accomplishment?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "If you could use a time machine, would you rather have one that only goes back or only goes forward?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "If you could be any mythical creature, what would you be and why?"
     },
     {
-    "question": "Why do people check the fridge and then check it again five seconds later?"
+        "question": "What is the smallest thing for which you are grateful?"
     },
     {
-    "question": "What is the meaning of life?"
+        "question": "What's the best outcome of a complete accident you've experienced?"
     },
     {
-    "question": "What is your sexuality?"
+        "question": "What was the greatest day of your life thus far?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "If you could be good at any profession without education26 without education, which would you choose?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "What is the most dangerous thing you've ever done, and why did you do it?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "If you could live anywhere with any domicile, where and what?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "What about yourself is completely different from 10 years ago?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "Are you currently pursuing what makes you happy? Why or why not?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "What always makes you nostalgic?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "If you were a character in media, what genre?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "In a 'Freaky Friday' situation, who would you swap with?"
     },
     {
-    "question": "did you pee in the street before?"
+        "question": "Do you believe in fate or chaos?"
     },
     {
-    "question": "What is something immature you think you do?"
+        "question": "What is your ideal birthday?"
     },
     {
-    "question": "What is something immature you think you do?"
+        "question": "Have you challenged a long-held belief?"
     },
     {
-    "question": "What is something immature you think you do?"
+        "question": "What is a fear you've faced and how?"
     },
     {
-    "question": "What is something immature you think you do?"
+        "question": "What is the best compliment you've received?"
     },
     {
-    "question": "What is something immature you think you do?"
+        "question": "What small thing annoys you irrationally?"
     },
     {
-    "question": "What is something immature you think you do?"
+        "question": "If you could erase one memory, what?"
     },
     {
-    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+        "question": "What's your favourite joke?"
     },
     {
-    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+        "question": "What is something you're terrible at but wish to do well?"
     },
     {
-    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+        "question": "In what way would you like to become famous?"
     },
     {
-    "question": "If you are alone at home and the electricity goes out,will you be afraid?"
+        "question": "What shows are you into?"
     },
     {
-    "question": "Do you have any unusual fears?"
+        "question": "What’s your dream car?"
     },
     {
-    "question": "Do you like messi or cristiano?"
+        "question": "What kind of art do you enjoy most?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What gets you fired up?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What’s the best thing about you?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What lifestyle change have you been meaning to make?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What’s the most spontaneous thing you’ve ever done?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What’s your favorite family tradition?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What’s the best vacation you’ve ever taken?"
     },
     {
-    "question": "Do you believe men and women can ever just be friends?"
+        "question": "What’s something you’re proud of?"
     },
     {
-    "question": "Do you have any pets?"
+        "question": "What’s a goal you’re working towards?"
     },
     {
-    "question": "What was the last movie you saw?"
+        "question": "What’s a book that changed your life?"
     },
     {
-    "question": "What do you normally do for fun?"
+        "question": "What’s a movie that made you cry?"
     },
     {
-    "question": "Do you like to cook?"
+        "question": "What’s a song that always makes you happy?"
     },
     {
-    "question": "What are you most afraid of?"
+        "question": "What’s a hobby you’d like to pick up?"
     },
     {
-    "question": "What scares you the most about the future?"
+        "question": "What’s something you’ve always wanted to learn?"
     },
     {
-    "question": "Who is the most important person in your life right now?"
+        "question": "What’s your favorite way to relax?"
     },
     {
-    "question": "could you live without internet?"
+        "question": "What’s a cause you’re passionate about?"
     },
     {
-    "question": "could you live without internet?"
+        "question": "What’s something you’re looking forward to?"
     },
     {
-    "question": "could you live without internet?"
-    },
-    {
-    "question": "What weird thing do you do when nobody else is around?"
-    },
-    {
-    "question": "Is there anything that most people find cute that creeps you out?"
-    },
-    {
-    "question": "What is something you've failed at recently?"
-    },
-    {
-    "question": "What is the most frustrating thing about your job?"
-    },
-    {
-    "question": "What do you wish they would teach at school that they don't?"
-    },
-    {
-    "question": "What would you change about yourself if you could?"
-    },
-    {
-    "question": "What really makes you angry?"
-    },
-    {
-    "question": "What makes you laugh the most?"
-    },
-    {
-    "question": "What is the most recent fact you learned that surprised you?"
-    },
-    {
-    "question": "Have you ever lost someone close to you?"
-    },
-    {
-    "question": "When do you think a person is ready for marriage?"
-    },
-    {
-    "question": "What is the best piece of advice someone has given you?"
-    },
-    {
-    "question": "Who is someone you recently thought about that you haven't seen or talked to in years?"
-    },
-    {
-    "question": "Do you ever sing in the shower?"
-    },
-    {
-    "question": "What is the worst piece of advice you've ever gotten?"
-    },
-    {
-    "question": "What's the most embarrassing thing that's happened to you recently?"
-    },
-    {
-    "question": "What's the most embarrassing thing that's happened to you recently?"
-    },
-    {
-    "question": "What's the most embarrassing thing that's happened to you recently?"
-    },
-    {
-    "question": "What's the most embarrassing thing that's happened to you recently?"
-    },
-    {
-    "question": "What's the most embarrassing thing that's happened to you recently?"
-    },
-    {
-    "question": "What is the most recent silly thing you did?"
-    },
-    {
-    "question": "What snack can you just not get enough of?"
-    },
-    {
-    "question": "Did you flirt before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Did you molest before?"
-    },
-    {
-    "question": "Did you flirt before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Did you molest before?"
-    },
-    {
-    "question": "Did you flirt before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Did you molest before?"
-    },
-    {
-    "question": "Did you flirt before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Did you molest before?"
-    },
-    {
-    "question": "Did you flirt before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Did you molest before?"
-    },
-    {
-    "question": "Do you think your gf likes you?"
-    },
-    {
-    "question": "If your friend is a gay,what would you do?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Have you been molested before?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Why do you think men are always jealous?"
-    },
-    {
-    "question": "Do you believe men and women can ever just be friends?"
-    },
-    {
-    "question": "Do you believe that men will be men?"
-    },
-    {
-    "question": "Do you believe that men will be men?"
-    },
-    {
-    "question": "Do you believe that men will be men?"
-    },
-    {
-    "question": "Do you believe men and women can ever just be friends?"
-    },
-    {
-    "question": "Do you think school is useless?"
-    },
-    {
-    "question": "Do you like macdonald or KFC?"
-    },
-    {
-    "question": "Do you like maradona or ronaldinho?"
-    },
-    {
-    "question": "Do you like messi or cristiano or ronaldinho?"
-    },
-    {
-    "question": "What do you think in feminist?"
-    },
-    {
-    "question": "What do you think in feminist?"
-    },
-    {
-    "question": "What do you think in feminist?"
-    },
-    {
-    "question": "What do you think in feminist?"
-    },
-    {
-    "question": "What do you like to do as you have freetime?"
-    },
-    {
-    "question": "How many siblings do you have?"
-    },
-    {
-    "question": "Do you fight with your brother/sister?when and what was the last fight?"
-    },
-    {
-    "question": "What is your biggest fear?"
-    },
-    {
-    "question": "what is been your most embarrassing moment?"
-    },
-    {
-    "question": "How do you like to be comforted when you’re sad or upset?"
-    },
-    {
-    "question": "Who was the last person to make you cry and why?"
-    },
-    {
-    "question": "When have you felt the most proud?"
-    },
-    {
-    "question": "Have you ever been bullied?"
-    },
-    {
-    "question": "Do you have any regrets? If so, what are they?"
-    },
-    {
-    "question": "Out of all your family members, who are you closest to?"
-    },
-    {
-    "question": "Do you want to have kids one day? How many?"
-    },
-    {
-    "question": "When you can't sleep, what keeps you up at night?"
-    },
-    {
-    "question": "What do you do when no one else is around?"
-    },
-    {
-    "question": "What’s your favorite thing you own and why?"
-    },
-    {
-    "question": "What’s your favorite TikTok video?"
-    },
-    {
-    "question": "What’s your favorite youtube video?"
-    },
-    {
-    "question": "What’s your favorite funny video?"
-    },
-    {
-    "question": "What flavor of ice cream do you like?"
-    },
-    {
-    "question": "What's the last lie you told?"
-    },
-    {
-    "question": "What's the best compliment you've ever received?"
-    },
-    {
-    "question": "When was the last time you were jealous and why?"
-    },
-    {
-    "question": "What did you dream about last night?"
-    },
-    {
-    "question": "What does bestfriend mean to you?"
-    },
-    {
-    "question": "What is the weirdest thing you have ever eaten?"
-    },
-    {
-    "question": "Do you care about what other people tell you?"
-    },
-    {
-    "question": "What’s the best type of cheese for you?"
-    },
-    {
-    "question": "What are your phobias?"
-    },
-    {
-    "question": "Do you have any phobia?"
-    },
-    {
-    "question": "What makes you jealous?"
-    },
-    {
-    "question": "Is there someone you really hate?"
-    },
-    {
-    "question": "When was the last time you cried?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "did you pee in the swimming pool before?"
-    },
-    {
-    "question": "What should i know about yourself?"
-    },
-    {
-    "question": "what is your biggest secret?"
-    },
-    {
-    "question": "What does success mean to you?"
-    },
-    {
-    "question": "What's your favorite anime character?"
-    },
-    {
-    "question": "did you pee in the shower before?"
-    },
-    {
-    "question": "What's your favorite photo?"
-    },
-    {
-    "question": "What's your favorite movie character?"
-    },
-    {
-    "question": "Who is your celebrity crush?"
-    },
-    {
-    "question": "Dog person, cat person, or neither?"
-    },
-    {
-    "question": "What's the deepest desire of your heart?"
-    },
-    {
-    "question": "What's your relationship with your parents like?"
-    },
-    {
-    "question": "What was the worst advice?"
-    },
-    {
-    "question": "If you could change anything about your past, would you and what would it be?"
-    },
-    {
-    "question": "What's your biggest fear now?"
-    },
-    {
-    "question": "How do you prepare coffee?"
-    },
-    {
-    "question": "Have you ever attempted to swallow toothpaste?"
-    },
-    {
-    "question": "Who’s the second person on your missed calls?"
-    },
-    {
-    "question": "What is the weirdest dream you have ever had?"
-    },
-    {
-    "question": "did you pee in the beach before?"
-    },
-    ]
+        "question": "What’s a memory that makes you smile?"
+    }
+]

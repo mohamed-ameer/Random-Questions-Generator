@@ -14,14 +14,23 @@ const countEl = document.getElementById('count');
 updateVisitCount();
 
 function updateVisitCount() {
-	fetch('https://api.api-ninjas.com/v1/counter?id=test_id&hit=true',{
-  		method: 'GET', // GET requests usually don't have a body
- 		headers: {
-    			'X-Api-Key': 'fA6tVTtYFvRu3BoyAayzpA==60n1Z7nifArbTggv'
-  		}
+	fetch('https://api.api-ninjas.com/v1/counter?id=test_id&hit=true', {
+	    method: 'GET',
+	    headers: {
+	        'X-Api-Key': 'fA6tVTtYFvRu3BoyAayzpA==60n1Z7nifArbTggv',
+	        'Content-Type': 'application/json'
+	    }
 	})
-	.then(res => res.json())
-	.then(res => {
-		countEl.innerHTML = res.value;
+	.then(response => {
+	    if (!response.ok) {
+	        throw new Error('Network response was not ok');
+	    }
+	    return response.json();
 	})
+	.then(data => {
+	    countEl.innerHTML = data.value;
+	})
+	.catch(error => {
+	    console.error('Error:', error.message);
+	});
 }

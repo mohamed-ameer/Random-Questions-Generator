@@ -29,8 +29,5 @@ function updateVisitCount() {
 	})
 	.then(data => {
 	    countEl.innerHTML = data.value;
-	})
-	.catch(error => {
-	    console.error('Error:', error.message);
 	});
 }

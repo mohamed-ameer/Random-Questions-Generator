@@ -336,7 +336,7 @@ let data =[
         "question": "What was the greatest day of your life thus far?"
     },
     {
-        "question": "If you could be good at any profession without education26 without education, which would you choose?"
+        "question": "If you could be good at any profession without education, which would you choose?"
     },
     {
         "question": "What is the most dangerous thing you've ever done, and why did you do it?"
@@ -448,5 +448,185 @@ let data =[
     },
     {
         "question": "What’s a memory that makes you smile?"
+    },
+    {
+        "question": "If you could instantly master any skill, what would it be and why?"
+    },
+    {
+        "question": "What’s the weirdest food combo you’ve ever tried?"
+    },
+    {
+        "question": "If you could have dinner with any historical figure, who would it be and what would you ask them?"
+    },
+    {
+        "question": "What’s the most bizarre place you’ve ever fallen asleep?"
+    },
+    {
+        "question": "If you could create a new holiday, what would it celebrate and how would people celebrate it?"
+    },
+    {
+        "question": "What’s the most unexpected life lesson you’ve learned?"
+    },
+    {
+        "question": "If you could swap lives with a fictional character for a day, who would it be?"
+    },
+    {
+        "question": "What’s the most ridiculous thing you’ve ever done to impress someone?"
+    },
+    {
+        "question": "If you could invent a gadget to make life easier, what would it do?"
+    },
+    {
+        "question": "What’s a moment in your life that felt like it was straight out of a movie?"
+    },
+    {
+        "question": "If you could live in any era of history, which one and why?"
+    },
+    {
+        "question": "What’s the strangest gift you’ve ever received?"
+    },
+    {
+        "question": "If you were a superhero, what would your origin story be?"
+    },
+    {
+        "question": "What’s the most adventurous thing you’ve ever done on a whim?"
+    },
+    {
+        "question": "If you could talk to your younger self, what advice would you give?"
+    },
+    {
+        "question": "What’s the most memorable dream you’ve ever had?"
+    },
+    {
+        "question": "If you could redesign the human body, what feature would you add or change?"
+    },
+    {
+        "question": "What’s the most surprising thing you’ve learned about yourself?"
+    },
+    {
+        "question": "If you could star in a movie, what genre would it be and who’d be your co-star?"
+    },
+    {
+        "question": "What’s the most random fact you know that you love sharing?"
+    },
+    {
+        "question": "If you could have any animal as a pet, mythical or real, what would it be?"
+    },
+    {
+        "question": "What’s Fly the most epic party you’ve ever been to?"
+    },
+    {
+        "question": "If you could write a book, what would it be about?"
+    },
+    {
+        "question": "What’s the most awkward thing you’ve accidentally said to someone?"
+    },
+    {
+        "question": "If you could teleport anywhere right now, where would you go?"
+    },
+    {
+        "question": "What’s the most creative thing you’ve ever done?"
+    },
+    {
+        "question": "If you could have a theme song play every time you entered a room, what would it be?"
+    },
+    {
+        "question": "What’s the most unusual place you’ve ever met someone interesting?"
+    },
+    {
+        "question": "If you could solve one mystery of the universe, what would it be?"
+    },
+    {
+        "question": "What’s the most thrilling experience you’ve ever had?"
+    },
+    {
+        "question": "What’s the one fashion trend you wish would come back in style?"
+    },
+    {
+        "question": "If you could design your dream wardrobe, what would it look like?"
+    },
+    {
+        "question": "What’s the most empowering thing you’ve ever done for yourself?"
+    },
+    {
+        "question": "If you could have any female role model as your mentor, who would it be and why?"
+    },
+    {
+        "question": "What’s the best self-care ritual you’ve discovered?"
+    },
+    {
+        "question": "What’s a stereotype about women that you’ve proven wrong?"
+    },
+    {
+        "question": "If you could create a movie about your life, what would the title be?"
+    },
+    {
+        "question": "What’s the most memorable girls’ night out you’ve ever had?"
+    },
+    {
+        "question": "What’s one thing you love about being a woman?"
+    },
+    {
+        "question": "If you could switch lives with a celebrity for a week, who would it be?"
+    },
+    {
+        "question": "What’s the most inspiring story you’ve heard about a woman?"
+    },
+    {
+        "question": "What’s your go-to karaoke song and why?"
+    },
+    {
+        "question": "What’s the best advice you’ve ever received about relationships?"
+    },
+    {
+        "question": "If you could start a movement for women, what would it be about?"
+    },
+    {
+        "question": "What’s the most unexpected compliment you’ve ever gotten?"
+    },
+    {
+        "question": "What’s your favorite way to pamper yourself?"
+    },
+    {
+        "question": "If you could be the best in the world at something, what would it be?"
+    },
+    {
+        "question": "What’s the most meaningful gift you’ve ever given someone?"
+    },
+    {
+        "question": "What’s a beauty or style tip you swear by?"
+    },
+    {
+        "question": "What’s the most courageous thing you’ve done to stand up for yourself?"
+    },
+    {
+        "question": "If you could plan the perfect girls’ trip, where would you go and what would you do?"
+    },
+    {
+        "question": "What’s a female fictional character you relate to the most?"
+    },
+    {
+        "question": "What’s the most fun you’ve had getting ready for a big event?"
+    },
+    {
+        "question": "What’s one thing you wish more women knew about themselves?"
+    },
+    {
+        "question": "What’s the best way you’ve found to boost your confidence?"
+    },
+    {
+        "question": "If you could create a TV show about female friendship, what would it be like?"
+    },
+    {
+        "question": "What’s the most unforgettable moment you’ve shared with a female friend?"
+    },
+    {
+        "question": "What’s a goal you’ve set for yourself that you’re excited to achieve?"
+    },
+    {
+        "question": "What’s the most iconic female-led movie or show you’ve watched?"
+    },
+    {
+        "question": "What’s one thing you’d love to do with your best friend that you haven’t done yet?"
     }
 ]
